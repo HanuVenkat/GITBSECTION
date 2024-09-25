@@ -1,4 +1,8 @@
 
 I am Hanu venkat
+<<<<<<< HEAD
 
 studying ait cse branch
+=======
+studying in cse branch.
+>>>>>>> feature_branch
