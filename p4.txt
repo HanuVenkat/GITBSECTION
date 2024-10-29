@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 benhalor
+=======
+bangalor:
+>>>>>>> feature_branch
