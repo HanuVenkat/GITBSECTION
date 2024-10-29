@@ -9,4 +9,12 @@ studying in cse branch.
 >>>>>>> feature_branch
 =======
 learning git merge
+<<<<<<< HEAD
+>>>>>>> feature_branch
+=======
+
+BHBUHBHUBHUBHU
+Bangalore
+
+from hospet
 >>>>>>> feature_branch

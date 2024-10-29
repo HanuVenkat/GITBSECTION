@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 Hanu Venkat 
 live in Bangalore
 for study
 in acharya college
 from my city
+=======
+Hanu Venkat
+Bengaluru
+
+from hospet
+>>>>>>> feature_branch
