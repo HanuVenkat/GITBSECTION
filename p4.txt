@@ -2,4 +2,8 @@
 benhalor
 =======
 bangalor:
+<<<<<<< HEAD
+>>>>>>> feature_branch
+=======
+......
 >>>>>>> feature_branch
