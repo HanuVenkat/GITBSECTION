@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 bangalore
 HOSPET
 learning custom commit message
 HHAANNAAUU
+=======
+bangalor:
+......
+HOSPET
+>>>>>>> bd1389a (file p4.txt added)
