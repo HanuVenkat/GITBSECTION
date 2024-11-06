@@ -5,7 +5,10 @@ in acharya
 =======
 bangalor
 in acharya
+<<<<<<< HEAD
 IN COLLEGE
 KKKKKKK
 
 >>>>>>> defer_branch
+=======
+>>>>>>> 1c2d4ba (added new line)
