@@ -1,6 +1,3 @@
 learning git revert
-<<<<<<< HEAD
-=======
 added oneline
 added secondline
->>>>>>> 9497dd3 (second commit in test)
