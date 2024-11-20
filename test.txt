@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 oioo
+=======
+learning git revert
+>>>>>>> 22b4d71 (first commit)
