@@ -1,12 +1,5 @@
 
 I am Hanu venkat
-<<<<<<< HEAD
-
-studying ait cse branch
-=======
 studying in cse branch.
-<<<<<<< HEAD
->>>>>>> feature_branch
-=======
 learning git merge
->>>>>>> feature_branch
+
