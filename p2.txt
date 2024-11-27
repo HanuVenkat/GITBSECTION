@@ -1,14 +1,8 @@
 
 I am Hanu venkat
-<<<<<<< HEAD
-
-studying ait cse branch
-=======
 studying in cse branch.
-<<<<<<< HEAD
->>>>>>> feature_branch
-=======
 learning git merge
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> feature_branch
 =======
@@ -18,3 +12,6 @@ Bangalore
 
 from hospet
 >>>>>>> feature_branch
+=======
+
+>>>>>>> feature-branch

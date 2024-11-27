@@ -1,2 +1,6 @@
 hanu
+<<<<<<< HEAD
 venkat
+=======
+hi
+>>>>>>> feature-branch
