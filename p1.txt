@@ -1,18 +1,18 @@
-<<<<<<< HEAD
+
 Hanu Venkat 
 live in Bangalore
 for study
 in acharya college
 from my city
-=======
+
 Hanu Venkat
 Bengaluru
 
 from hospet
-<<<<<<< HEAD
->>>>>>> feature_branch
-=======
+
+
+
 for study
 hhhhaaaa
 yyyyyyyy
->>>>>>> feature_branch
+zzzzzz
