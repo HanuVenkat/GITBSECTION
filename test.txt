@@ -1,7 +1,8 @@
+
+
+
 learning git revert
-added oneline
-<<<<<<< HEAD
-=======
-added secondline
-added thirdline
->>>>>>> feature-branch
+ADD
+
+
+
