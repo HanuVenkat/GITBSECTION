@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 learning git revert
 added oneline
 <<<<<<< HEAD
@@ -5,3 +6,10 @@ added oneline
 added secondline
 added thirdline
 >>>>>>> feature-branch
+=======
+<<<<<<< HEAD
+oioo
+=======
+learning git revert
+>>>>>>> 22b4d71 (first commit)
+>>>>>>> feature_branch

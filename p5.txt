@@ -2,7 +2,11 @@ hanu venkat
 in college
 and in bangalore
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 JM
 >>>>>>> feature-branch
+=======
+
+>>>>>>> feature_branch

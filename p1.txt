@@ -9,4 +9,10 @@ Hanu Venkat
 Bengaluru
 
 from hospet
+<<<<<<< HEAD
+>>>>>>> feature_branch
+=======
+for study
+hhhhaaaa
+yyyyyyyy
 >>>>>>> feature_branch

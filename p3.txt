@@ -6,4 +6,8 @@ during festival
 in town
 =======
 hanuvenkat
+<<<<<<< HEAD
+>>>>>>> feature_branch
+=======
+in bengaluru
 >>>>>>> feature_branch

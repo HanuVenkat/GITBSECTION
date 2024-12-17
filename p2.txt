@@ -11,7 +11,11 @@ BHBUHBHUBHUBHU
 Bangalore
 
 from hospet
+<<<<<<< HEAD
 >>>>>>> feature_branch
 =======
 
 >>>>>>> feature-branch
+=======
+HHHHHASSS
+>>>>>>> feature_branch

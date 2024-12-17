@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 benhalor
 =======
 bangalor:
@@ -6,4 +7,27 @@ bangalor:
 >>>>>>> feature_branch
 =======
 ......
+>>>>>>> feature_branch
+=======
+ HEAD
+ HEAD
+bangalore
+HOSPET
+learning custom commit message
+HHAANNAAUU
+
+bangalor:
+<<<<<<< HEAD
+
+HOSPET
+ bd1389a (file p4.txt added)
+
+bangalore
+HOSPET
+learning custom commit message
+ 5a293cb (first commit)
+=======
+......
+HOSPET
+>>>>>>> bd1389a (file p4.txt added)
 >>>>>>> feature_branch
