@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 bangalore 
 Karnataka
 in acharya
+=======
+bangalor
+in acharya
+IN COLLEGE
+KKKKKKK
+
+>>>>>>> defer_branch

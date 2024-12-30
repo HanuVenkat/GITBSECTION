@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Hanu Venkat 
 live in Bangalore
@@ -16,3 +17,7 @@ for study
 hhhhaaaa
 yyyyyyyy
 zzzzzz
+=======
+IN THE MARVEL
+IN MAR
+>>>>>>> defer_branch
